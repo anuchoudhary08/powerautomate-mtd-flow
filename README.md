@@ -68,7 +68,7 @@ The Power BI dashboard includes:
 ![Flow](Screenshots/Flow.png)
 
 ### Power BI Dashboard  
-![Dashboard](images/dashboard.png)
+![Dashboard](Screenshots/Deshboard.png)
 
 
 
