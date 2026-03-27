@@ -1,14 +1,14 @@
 # 🚀 Employee Performance Tracking System (MTD)
 ### Power Automate + Power BI | End-to-End Workflow Automation
 
----
+
 
 ## 📌 Overview
 This project automates employee reporting and provides real-time performance insights using Microsoft Forms, Power Automate, and Power BI.
 
 It eliminates manual reporting by creating a seamless flow from data collection to automated email reporting and dashboard visualization.
 
----
+
 
 ## 🎯 Objective
 - Automate daily employee report submission  
@@ -16,7 +16,7 @@ It eliminates manual reporting by creating a seamless flow from data collection 
 - Provide interactive dashboards for managers  
 - Improve reporting efficiency and accuracy  
 
----
+
 
 ## 🔄 Workflow
 
