@@ -27,7 +27,7 @@ This project automates employee reporting using Microsoft Forms and Power Automa
 ![Flow](Screenshots/flow-overview.png)
 
 ### Form Preview
-![Form](screenshots/form-preview.png)
+![Form](Screenshots/form-preview.png)
 
 ### Email Output
 ![Email](https://github.com/anuchoudhary08/powerautomate-mtd-flow/blob/main/Screenshots/email-output.png)
