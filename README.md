@@ -62,7 +62,7 @@ The Power BI dashboard includes:
 
 
 ### Microsoft Form  
-![Form](images/form.png)
+![Form](Screenshots/Form.png)
 
 ### Power Automate Flow  
 ![Flow](images/flow.png)
