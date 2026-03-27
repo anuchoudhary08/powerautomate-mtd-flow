@@ -75,11 +75,14 @@ The Power BI dashboard includes:
 ## 🏗️ Architecture
 
 The system follows an end-to-end automated workflow from data collection to visualization:
+
+
 ┌──────────────────────┐
 │  Microsoft Forms     │
 │  (Employee Input)    │
 └─────────┬────────────┘
           ↓
+          
 ┌────────────────────────────┐
 │ Power Automate             │
 │ - Trigger on form submit   │
@@ -87,6 +90,7 @@ The system follows an end-to-end automated workflow from data collection to visu
 │ - Process data             │
 └───────┬───────────┬────────┘
         ↓           ↓
+        
 ┌──────────────┐   ┌──────────────────────┐
 │ Email System │   │ Data Storage         │
 │ (Manager)    │   │ (Excel/SharePoint)   │
