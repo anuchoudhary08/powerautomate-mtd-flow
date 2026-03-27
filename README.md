@@ -91,32 +91,10 @@ The Power BI dashboard includes:
 
 The system follows an end-to-end automated workflow from data collection to visualization:
 
+Microsoft Forms → Power Automate → Data Storage → Power BI
 
-┌──────────────────────┐
-│  Microsoft Forms     │
-│  (Employee Input)    │
-└─────────┬────────────┘
-          ↓
-          
-┌────────────────────────────┐
-│ Power Automate             │
-│ - Trigger on form submit   │
-│ - Apply MTD logic          │
-│ - Process data             │
-└───────┬───────────┬────────┘
-        ↓           ↓
-        
-┌──────────────┐   ┌──────────────────────┐
-│ Email System │   │ Data Storage         │
-│ (Manager)    │   │ (Excel/SharePoint)   │
-└──────────────┘   └──────────┬───────────┘
-                              ↓
-                   ┌──────────────────────┐
-                   │ Power BI Dashboard   │
-                   │ (Visualization)      │
-                   └──────────────────────┘
-                   
 
+                 
 ## 📈 Impact
 
 - Automated the complete reporting process  
