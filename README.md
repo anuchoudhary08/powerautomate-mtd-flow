@@ -30,7 +30,7 @@ This project automates employee reporting using Microsoft Forms and Power Automa
 ![Form](screenshots/form-preview.png)
 
 ### Email Output
-![Email]([screenshots/email-output.png](https://github.com/anuchoudhary08/powerautomate-mtd-flow/blob/main/Screenshots/email-output.png))
+![Email](https://github.com/anuchoudhary08/powerautomate-mtd-flow/blob/main/Screenshots/email-output.png)
 
 ---
 
