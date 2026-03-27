@@ -76,6 +76,9 @@ The Power BI dashboard includes:
 ![Email](Screenshots/email.png)
 
 
+> ⚠️ Note: Actual email screenshots are not included due to organizational data privacy restrictions.
+
+
 
 ### 📂 Data Storage (Excel / SharePoint)  
 ![Excel](Screenshots/Excel.png)
