@@ -60,7 +60,6 @@ The Power BI dashboard includes:
 
 ## 📸 Screenshots
 
-> 📁 Create a folder named `images` in your repository and add screenshots
 
 ### Microsoft Form  
 ![Form](images/form.png)
