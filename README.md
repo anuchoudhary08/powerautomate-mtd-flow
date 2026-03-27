@@ -24,7 +24,7 @@ This project automates employee reporting using Microsoft Forms and Power Automa
 ## 📸 Screenshots
 
 ### Flow Overview
-![Flow](screenshots/flow-overview.png)
+![Flow](Screenshots/flow-overview.png)
 
 ### Form Preview
 ![Form](screenshots/form-preview.png)
