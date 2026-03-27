@@ -1,4 +1,6 @@
-# 🚀 Employee Report Automation (Power Automate)
+🚀 Employee Performance Tracking System (MTD)
+
+Power Automate + Power BI | End-to-End Business Workflow Automation
 
 ## 📌 Overview
 This project automates employee reporting using Microsoft Forms and Power Automate.
