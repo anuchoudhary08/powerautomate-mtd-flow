@@ -72,12 +72,18 @@ The Power BI dashboard includes:
 
 
 
-### 📧 Email Notification (Manager Output)  
-![Email](Screenshots/email.png)
+## 📧 Email Notification (Manager Output)
 
+The system automatically sends a structured email to the respective manager containing employee performance data and MTD report.
 
-> ⚠️ Note: Actual email screenshots are not included due to organizational data privacy restrictions.
+### 🔹 Key Highlights:
+- Automatically triggered on form submission  
+- Includes employee work details and reporting status  
+- Provides consolidated view of daily submissions  
 
+> ⚠️ Note: Sensitive information has been masked for privacy.
+
+![Email Output](images/email.png)
 
 
 ### 📂 Data Storage (Excel / SharePoint)  
