@@ -83,7 +83,7 @@ The system automatically sends a structured email to the respective manager cont
 
 > ⚠️ Note: Sensitive information has been masked for privacy.
 
-![Email Output](images/email.png)
+![Email Output](Screenshots/Manager_Screenshot.png)
 
 
 ### 📂 Data Storage (Excel / SharePoint)  
