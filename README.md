@@ -75,50 +75,48 @@ The Power BI dashboard includes:
 
 ## 🏗️ Architecture
 
+Microsoft Forms → Power Automate → Data Storage → Power BI
+
+
+
+## 📈 Impact
+
+- Automated the complete reporting process  
+- Reduced manual work significantly  
+- Improved visibility of employee performance  
+- Enabled data-driven decision-making  
+
+
+
+## 🔮 Future Enhancements
+
+- Integration with SQL/Azure database  
+- Role-based access control  
+- Real-time alerts  
+- Advanced analytics and forecasting  
+
+
+
+## 💡 Learnings
+
+- Built an end-to-end automation workflow  
+- Applied business logic using Power Automate  
+- Integrated Power BI for data visualization  
+- Gained experience in real-world reporting systems  
+
+
+
+## 👤 Author
+
+**Anu Choudhary**  
+B.Tech AI & Data Science  
+Aspiring Data Engineer  
 
 
 
 
 
 
-
-🚀 Employee Performance Tracking System (MTD)
-
-Power Automate + Power BI | End-to-End Business Workflow Automation
-
-## 📌 Overview
-This project automates employee reporting using Microsoft Forms and Power Automate.
-
----
-
-## ⚙️ Workflow
-1. Employee fills Microsoft Form  
-2. Flow triggers on submission  
-3. Manager email is captured dynamically  
-4. Email is sent to manager  
-5. Data tracked in MTD format  
-
----
-
-## 🛠️ Tools Used
-- Microsoft Forms  
-- Power Automate  
-- Outlook  
-
----
-
-## 📸 Screenshots
-
-### Flow Overview
-![Flow](Screenshots/flow-overview.png)
-
-### Form Preview
-![Form](Screenshots/form-preview.png)
-
-### Email Output
-![Email](https://github.com/anuchoudhary08/powerautomate-mtd-flow/blob/main/Screenshots/email-output.png)
-
----
 
 ## ⚠️ Note
 Due to confidentiality, the flow package (.zip) is not included.
