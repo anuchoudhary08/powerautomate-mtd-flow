@@ -78,7 +78,7 @@ The Power BI dashboard includes:
 
 
 ### 📂 Data Storage (Excel / SharePoint)  
-![Excel](images/excel.png)
+![Excel](Screenshots/Excel.png)
 
 
 
