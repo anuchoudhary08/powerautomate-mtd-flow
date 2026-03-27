@@ -73,7 +73,7 @@ The Power BI dashboard includes:
 
 
 ### 📧 Email Notification (Manager Output)  
-![Email](images/email.png)
+![Email](Screenshots/email.png)
 
 
 
