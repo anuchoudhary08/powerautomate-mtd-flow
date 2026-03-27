@@ -27,7 +27,7 @@ It eliminates manual reporting by creating a seamless flow from data collection 
 5. Data is stored for further analysis  
 6. Power BI dashboard is connected for visualization  
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -35,7 +35,7 @@ It eliminates manual reporting by creating a seamless flow from data collection 
 - Power Automate  
 - Power BI  
 
----
+
 
 ## ✨ Key Features
 
@@ -45,7 +45,7 @@ It eliminates manual reporting by creating a seamless flow from data collection 
 - Reduced manual effort and human errors  
 - End-to-end automated workflow  
 
----
+
 
 ## 📊 Dashboard Insights
 
@@ -56,7 +56,7 @@ The Power BI dashboard includes:
 - Trend analysis  
 - Manager-level insights  
 
----
+
 
 ## 📸 Screenshots
 
@@ -71,7 +71,7 @@ The Power BI dashboard includes:
 ### Power BI Dashboard  
 ![Dashboard](images/dashboard.png)
 
----
+
 
 ## 🏗️ Architecture
 
