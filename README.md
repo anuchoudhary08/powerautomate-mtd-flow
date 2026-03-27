@@ -61,11 +61,26 @@ The Power BI dashboard includes:
 ## 📸 Screenshots
 
 
+
 ### Microsoft Form  
 ![Form](Screenshots/Form.png)
 
+
+
 ### Power Automate Flow  
 ![Flow](Screenshots/Flow.png)
+
+
+
+### 📧 Email Notification (Manager Output)  
+![Email](images/email.png)
+
+
+
+### 📂 Data Storage (Excel / SharePoint)  
+![Excel](images/excel.png)
+
+
 
 ### Power BI Dashboard  
 ![Dashboard](Screenshots/Deshboard.png)
